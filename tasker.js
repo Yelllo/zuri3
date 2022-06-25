@@ -1,5 +1,5 @@
 //Declare the variables
-const operatorVar = prompt("Entr the operator that you want to use(*, -, +, /)");
+const operatorVar = prompt("Enter the operator that you want to use(*, -, +, /)");
 const number1 = prompt("Enter the first number");
 const number2 = prompt("Enter the second number");
 //Check for invalid inputs
